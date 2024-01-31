@@ -8,4 +8,4 @@
 ## Dataset
 The **DILrPPG** dataset comprises facial videos of subjects wearing face masks, along with their corresponding pulse rate information. In total, it contains 194 subjects data, Out of these, 41 are female, and 153 are male.
 
-![Data Samples](./Figures/method.png)
+![Data Samples](./Figures/Data_samples.png)

@@ -6,7 +6,7 @@
 ![HREADAI Method](./Figures/method.png)
 
 ## Dataset
-The **DILrPPG** dataset comprises facial videos of subjects wearing face masks, along with their corresponding pulse rate information. In total, it contains 193 subjects data, Out of these, 41 are female, and 153 are male.
+The **DILrPPG** dataset comprises facial videos of subjects wearing face masks, along with their corresponding pulse rate information. In total, it contains 193 subjects data, Out of these, 41 are female, and 152 are male.
 
 ![Data Samples](./Figures/Data_samples.png)
 

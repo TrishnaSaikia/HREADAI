@@ -12,7 +12,8 @@ The **DILrPPG** dataset comprises facial videos of subjects wearing face masks, 
 
 ## License
 
-Please note that this dataset could be used for research purposes only, and any commercial use of the data is prohibited. To access this dataset, fill [this agreement]([https://drive.google.com/file/d/1LErQYGR528b0rxjcgD0mpAliZ1QMS3H1/view?usp=sharing]) and send to the following email addresses:
+Please note that this dataset could be used for research purposes only, and any commercial use of the data is prohibited. To access this dataset, fill [this agreement](https://drive.google.com/file/d/1LErQYGR528b0rxjcgD0mpAliZ1QMS3H1/view?usp=sharing) and send to the following email addresses:
+
 * phd2201101014@iiti.ac.in
 * deeplearning@iiti.ac.in 
 
